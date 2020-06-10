@@ -33,3 +33,8 @@ body{
     background-color: rgb(14, 11, 11);
     color: rosybrown;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}

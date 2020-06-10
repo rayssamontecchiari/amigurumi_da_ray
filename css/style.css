@@ -1,0 +1,35 @@
+body{
+    font-family: cursive
+
+}
+
+.navbar {
+    background-color: rgb(231, 160, 174);
+}
+
+.artesã {
+    background-color: rgb(253, 245, 247);
+    color: darkgray;
+    border: rgb(231, 160, 174);
+
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.produtos {
+    background-color: rgb(253, 245, 247);
+    color: rgb(14, 11, 11);
+    padding-bottom: 50px;
+}
+
+.contato {
+    background-color: rgb(231, 160, 174);
+}
+
+.rodape {
+    background-color: rgb(14, 11, 11);
+    color: rosybrown;
+}

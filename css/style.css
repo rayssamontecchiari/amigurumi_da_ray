@@ -4,14 +4,20 @@ body{
 }
 
 .navbar {
-    background-color: rgb(231, 160, 174);
+    background-image: url("img/fundo.jpg");
+
 }
 
+/*
 .artesã {
     background-color: rgb(253, 245, 247);
     color: darkgray;
     border: rgb(231, 160, 174);
 
+}
+*/
+.sobres {
+    text-align: center;
 }
 
 .margin {

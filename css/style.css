@@ -4,8 +4,7 @@ body{
 }
 
 .navbar {
-    background-image: url("img/fundo.jpg");
-
+    background-image: url("fundo.jpg");
 }
 
 /*
@@ -32,7 +31,7 @@ body{
 }
 
 .contato {
-    background-color: rgb(231, 160, 174);
+    background-image: url("fundo.jpg");
 }
 
 .rodape {

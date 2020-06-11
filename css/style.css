@@ -35,6 +35,11 @@ body{
 
 .contato {
     background-image: url("fundo.jpg");
+
+}
+
+.contato:hover {
+    color: white;
 }
 
 .rodape {
